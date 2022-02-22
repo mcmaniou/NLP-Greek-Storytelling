@@ -9,8 +9,8 @@ The repo is organized in the following folders:
 - model : the final trained model 
 
 Moreover, the code folder includes the following scripts:
-- `preprocessing.ipynb` : used to clean-up the raw input `.txt` files and produce the `_processed.txt` files 
-- `greek_storytelling.ipynb` : includes the tokenization, model configuration, training and saving steps
+- `preprocessing.ipynb` : used to clean-up the raw input `.txt` files and produce the `_processed.txt` files. 
+- `greek_storytelling.ipynb` : includes the tokenization, model configuration, training and saving steps.
 - `use_pretrained_model.ipynb` : a short script that can be used to load our trained model and generate your own stories!
 
 The raw data were collected from the following sources:
